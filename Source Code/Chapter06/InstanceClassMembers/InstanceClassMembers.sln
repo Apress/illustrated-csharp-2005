@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstanceClassMembers", "InstanceClassMembers.csproj", "{EE2EEFEA-41B2-4DEA-AC25-35EE52F814B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE2EEFEA-41B2-4DEA-AC25-35EE52F814B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE2EEFEA-41B2-4DEA-AC25-35EE52F814B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE2EEFEA-41B2-4DEA-AC25-35EE52F814B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE2EEFEA-41B2-4DEA-AC25-35EE52F814B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

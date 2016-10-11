@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorGenericEnumerator", "ColorGenericEnumerator.csproj", "{A77B994E-4614-462A-88E2-DD6C8713F24A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A77B994E-4614-462A-88E2-DD6C8713F24A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A77B994E-4614-462A-88E2-DD6C8713F24A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A77B994E-4614-462A-88E2-DD6C8713F24A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A77B994E-4614-462A-88E2-DD6C8713F24A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
